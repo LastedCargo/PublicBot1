@@ -1,0 +1,8 @@
+{
+    "name": "publicbot",
+    "version": "0.0.1",
+    "description": "Our first attemp at maing a public bot",
+    "main": "main.js",
+    "author": "LastedCargo",
+    "license": "isc"
+}
